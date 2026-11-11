@@ -1,0 +1,15 @@
+{
+  "start": "2014-04-01",
+  "end": "2014-10-01",
+  "train_end": "2014-08-01",
+  "validation_end": "2014-09-01",
+  "houses": {"1": "Appliance5", "2": "Appliance2", "3": "Appliance6", "5": "Appliance3"},
+  "minimum_samples_per_minute": 5,
+  "clean_minimum_samples_per_minute": 1,
+  "short_gap_minutes": 2,
+  "activity_threshold_w": 20,
+  "cycle_pause_minutes": 10,
+  "cycle_minimum_minutes": 10,
+  "cycle_minimum_kwh": 0.02,
+  "seed": 42
+}

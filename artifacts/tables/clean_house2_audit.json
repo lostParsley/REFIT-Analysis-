@@ -1,0 +1,103 @@
+{
+  "house": 2,
+  "raw": false,
+  "files": [
+    {
+      "file": "data\\official_clean\\CLEAN_House2.csv",
+      "rows": 5733526,
+      "invalid_unix": 0,
+      "first_utc": "2013-09-17 22:08:11+00:00",
+      "last_utc": "2015-05-28 08:05:43+00:00",
+      "text_minus_unix_seconds": {
+        "0.0": 5733526
+      }
+    }
+  ],
+  "selected_rows": 2113943,
+  "selected_first_utc": "2014-04-01 00:00:02+00:00",
+  "selected_last_utc": "2014-09-30 23:59:55+00:00",
+  "duplicate_rows": 0,
+  "backwards_steps": 0,
+  "median_interval_s": 6.0,
+  "non_eight_second_steps": 2031540,
+  "gaps_over_60s": 1368,
+  "max_interval_s": 20741.0,
+  "missing_by_channel": {
+    "Aggregate": 0,
+    "Appliance1": 0,
+    "Appliance2": 0,
+    "Appliance3": 0,
+    "Appliance4": 0,
+    "Appliance5": 0,
+    "Appliance6": 0,
+    "Appliance7": 0,
+    "Appliance8": 0,
+    "Appliance9": 0
+  },
+  "negative_by_channel": {
+    "Aggregate": 0,
+    "Appliance1": 0,
+    "Appliance2": 0,
+    "Appliance3": 0,
+    "Appliance4": 0,
+    "Appliance5": 0,
+    "Appliance6": 0,
+    "Appliance7": 0,
+    "Appliance8": 0,
+    "Appliance9": 0
+  },
+  "over_4000w_iam": {
+    "Appliance1": 0,
+    "Appliance2": 0,
+    "Appliance3": 0,
+    "Appliance4": 0,
+    "Appliance5": 0,
+    "Appliance6": 0,
+    "Appliance7": 0,
+    "Appliance8": 0,
+    "Appliance9": 0
+  },
+  "aggregate_over_20000w": 3,
+  "aggregate_max_w": 24595.0,
+  "sorted_unique_median_interval_s": 6.0,
+  "sorted_unique_gaps_over_60s": 1368,
+  "sorted_unique_max_gap_s": 20741.0,
+  "missing_minutes_before": {
+    "Aggregate": 1557,
+    "Appliance1": 1557,
+    "Appliance2": 1557,
+    "Appliance3": 1557,
+    "Appliance4": 1557,
+    "Appliance5": 1557,
+    "Appliance6": 1557,
+    "Appliance7": 1557,
+    "Appliance8": 1557,
+    "Appliance9": 1557
+  },
+  "missing_minutes_after": {
+    "Aggregate": 1557,
+    "Appliance1": 1557,
+    "Appliance2": 1557,
+    "Appliance3": 1557,
+    "Appliance4": 1557,
+    "Appliance5": 1557,
+    "Appliance6": 1557,
+    "Appliance7": 1557,
+    "Appliance8": 1557,
+    "Appliance9": 1557
+  },
+  "imputed_cells": 0,
+  "issue_minutes": 7027,
+  "long_gap_minutes_by_channel": {
+    "Aggregate": 1432,
+    "Appliance1": 1432,
+    "Appliance2": 1432,
+    "Appliance3": 1432,
+    "Appliance4": 1432,
+    "Appliance5": 1432,
+    "Appliance6": 1432,
+    "Appliance7": 1432,
+    "Appliance8": 1432,
+    "Appliance9": 1432
+  }
+}

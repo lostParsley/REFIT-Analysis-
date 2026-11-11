@@ -1,0 +1,17 @@
+# Data manipulation & time-series processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning & evaluation metrics 
+scikit-learn>=1.2.0
+
+# Data visualization (EDA and actual-vs-predicted plots)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# File extraction for the REFIT .7z archives
+py7zr>=0.20.0
+requests>=2.31.0
+
+# Unit testing
+pytest>=7.3.0

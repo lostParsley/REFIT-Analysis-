@@ -1,0 +1,9 @@
+{
+  "metric": "model MAE minus always-off MAE (W)",
+  "estimate": 3.9859557883386474,
+  "lower_95": 2.795783675060334,
+  "upper_95": 5.4691108342799195,
+  "resamples": 1000,
+  "unit": "household-day",
+  "limitation": "Conditional on four homes and September; adjacent days may remain correlated"
+}

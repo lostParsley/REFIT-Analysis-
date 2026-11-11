@@ -1,0 +1,115 @@
+{
+  "house": 1,
+  "raw": true,
+  "files": [
+    {
+      "file": "data\\raw\\RAW_House1_Part1.csv",
+      "rows": 4377877,
+      "invalid_unix": 0,
+      "first_utc": "2013-10-09 14:06:17+00:00",
+      "last_utc": "2014-10-01 01:27:07+00:00",
+      "text_minus_unix_seconds": {
+        "0.0": 2243876,
+        "1.0": 2134001
+      }
+    },
+    {
+      "file": "data\\raw\\RAW_House1_Part2.csv",
+      "rows": 4140886,
+      "invalid_unix": 0,
+      "first_utc": "2014-06-27 21:57:49+00:00",
+      "last_utc": "2015-07-10 11:56:32+00:00",
+      "text_minus_unix_seconds": {
+        "0.0": 2122044,
+        "1.0": 2018842
+      }
+    }
+  ],
+  "selected_rows": 3462683,
+  "selected_first_utc": "2014-04-01 00:00:01+00:00",
+  "selected_last_utc": "2014-09-30 23:59:56+00:00",
+  "duplicate_rows": 901231,
+  "backwards_steps": 1,
+  "median_interval_s": 8.0,
+  "non_eight_second_steps": 3105776,
+  "gaps_over_60s": 3194,
+  "max_interval_s": 430346.0,
+  "missing_by_channel": {
+    "Aggregate": 54930,
+    "Appliance1": 132812,
+    "Appliance2": 126429,
+    "Appliance3": 87585,
+    "Appliance4": 251449,
+    "Appliance5": 135947,
+    "Appliance6": 111951,
+    "Appliance7": 67251,
+    "Appliance8": 107638,
+    "Appliance9": 944229
+  },
+  "negative_by_channel": {
+    "Aggregate": 0,
+    "Appliance1": 0,
+    "Appliance2": 0,
+    "Appliance3": 0,
+    "Appliance4": 0,
+    "Appliance5": 0,
+    "Appliance6": 0,
+    "Appliance7": 0,
+    "Appliance8": 0,
+    "Appliance9": 0
+  },
+  "over_4000w_iam": {
+    "Appliance1": 127,
+    "Appliance2": 0,
+    "Appliance3": 2,
+    "Appliance4": 1608,
+    "Appliance5": 161,
+    "Appliance6": 6,
+    "Appliance7": 1,
+    "Appliance8": 6,
+    "Appliance9": 0
+  },
+  "aggregate_over_20000w": 30,
+  "aggregate_max_w": 24000.0,
+  "sorted_unique_median_interval_s": 5.0,
+  "sorted_unique_gaps_over_60s": 2849,
+  "sorted_unique_max_gap_s": 190469.0,
+  "missing_minutes_before": {
+    "Aggregate": 23144,
+    "Appliance1": 23682,
+    "Appliance2": 23562,
+    "Appliance3": 23224,
+    "Appliance4": 26573,
+    "Appliance5": 23466,
+    "Appliance6": 23377,
+    "Appliance7": 23153,
+    "Appliance8": 23452,
+    "Appliance9": 51132
+  },
+  "missing_minutes_after": {
+    "Aggregate": 13057,
+    "Appliance1": 13142,
+    "Appliance2": 13168,
+    "Appliance3": 13067,
+    "Appliance4": 14135,
+    "Appliance5": 13122,
+    "Appliance6": 13073,
+    "Appliance7": 13064,
+    "Appliance8": 13105,
+    "Appliance9": 24427
+  },
+  "imputed_cells": 121405,
+  "issue_minutes": 0,
+  "long_gap_minutes_by_channel": {
+    "Aggregate": 13057,
+    "Appliance1": 13142,
+    "Appliance2": 13168,
+    "Appliance3": 13067,
+    "Appliance4": 14135,
+    "Appliance5": 13122,
+    "Appliance6": 13073,
+    "Appliance7": 13064,
+    "Appliance8": 13105,
+    "Appliance9": 24427
+  }
+}
